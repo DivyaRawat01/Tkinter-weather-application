@@ -62,7 +62,7 @@ The app fetches live weather data for a selected city and displays it along with
 ---
 
 ## 🎥 Demo Video
-[Click here to watch the demo](assets/Output.mp4)
+[Click here to watch the demo](Output.mp4)
 
 ---
 # 🤝 Contributing
