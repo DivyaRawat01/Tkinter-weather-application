@@ -27,43 +27,34 @@ The app fetches live weather data for a selected city and displays it along with
    ```bash
    git clone https://github.com/your-username/WeatherApp.git
    cd WeatherApp
-```
+   ```
 2. Install required Python libraries:
-```bash
-pip install requests pillow
-```
+  ```bash
+  pip install requests pillow
+  ```
 
-3. Get a free API Key from OpenWeather
- and replace it in the script:
-```bash
-api_key = "YOUR_API_KEY"
-```
+3. Get a free API Key from OpenWeatherand replace it in the script:
+  ```bash
+  api_key = "YOUR_API_KEY"
+  ```
 
 4.Place your GIFs and background images in the WeatherApp folder:
-```bash
-rain.gif
-
-cloud.gif
-
-snow.gif
-
-sunny.gif
-
-fog.gif
-
-cloud_sky_bg.jpg
-```
+  ```bash
+  rain.gif
+  cloud.gif
+  snow.gif
+  sunny.gif
+  fog.gif
+  cloud_sky_bg.jpg
+  ```
 5.Run the app:
-```bash
-python app.py
-```
+  ```bash
+  python app.py
+  ```
 ---
 
 ## 🖼️ Screenshots / Demo
 
-(Add screenshots or GIF recording of your app here)
-
-Example:
 <img width="632" height="792" alt="image" src="https://github.com/user-attachments/assets/711fc993-d1b4-4573-ab67-803f3612fb97" />
 
 <img width="627" height="791" alt="image" src="https://github.com/user-attachments/assets/2c8b6514-6c08-40ba-8244-aaf263472721" />
@@ -71,7 +62,7 @@ Example:
 ---
 
 ## 🎥 Demo Video
-[Click here to watch the demo](assets/demo.mp4)
+[Click here to watch the demo](assets/Output.mp4)
 
 ---
 # 🤝 Contributing
