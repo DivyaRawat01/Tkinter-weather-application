@@ -32,7 +32,7 @@ def get_Weather():
     global current_animation
 
     city = city_dropdown.get()
-    api_key = "ce2b8adcf2085e39c397db20ad86bfef"
+    api_key = "Enter your API key"
     api_url = (
         fr'https://api.openweathermap.org/data/2.5/weather?q={city}'
         f'&appid={api_key}&units=metric'
@@ -133,3 +133,4 @@ output_lable=Label(output_frame,text="",font=("Georgia",13),fg="white",bg="black
 output_lable.place(relx=0.5, rely=0.5,anchor="center")
 
 root.mainloop()
+
